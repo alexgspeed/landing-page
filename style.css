@@ -1,0 +1,29 @@
+body, .header, .tiles{
+    display:flex;
+    flex-direction: column;
+}
+
+.header-upper{
+    display: flex;
+    justify-content: space-between;
+}
+.header-lower {
+    display: flex;
+    justify-content: center;
+}
+
+.tiles{
+    text-align: center;
+}
+
+.quote{
+    text-align: center;
+}
+
+.call-to-action {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
